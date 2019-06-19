@@ -1,0 +1,32 @@
+
+
+.box {position: absolute;
+	left: 45%;
+	top: 40%;}
+.caja {position: absolute;
+	left: -44%;
+	top: -100%;}
+.cajita {border: 0.1px;
+	border-style:solid;
+	border-color: #ffffff;
+	padding: 5px;}
+body {background-color: #000000;
+	font-family: arial;}
+	.nav-ul {padding-left: 0;}
+header .nav-ul a {
+  	float: left;
+ 	display:contents;
+	font-size: 1.5em;
+	text-transform: uppercase;
+	color: #ffffff;
+	text-decoration:none;
+	padding: 0px;
+	margin: 0px;}
+header nav h1 {color: #ea0404;
+  font-size: 2em;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-bottom: 0;
+  padding-top: 0;}
+nav h1 a {text-decoration:none;
+  color: #ea0404}
